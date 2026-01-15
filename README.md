@@ -1,4 +1,4 @@
-🧭 Phase 0: Environment Setup ✅
+🧭 Phase 0: Environment Setup 
 [x] Linux OS
 [x] Python 3.12.3
 [x] Git & GitHub
