@@ -1,44 +1,69 @@
-# 🐍 Python Roadmap (Linux)
-
-## Goal
-Become confident in Python programming and build real projects on Linux.
-
----
-
-## Phase 1: Basics
-- Python installation
-- Variables & Data Types
-- Input / Output
-- Conditions (if/else)
-- Loops (for, while)
-
----
-
-## Phase 2: Core Python
-- Functions
-- Lists, Tuples, Sets
-- Dictionaries
-- Strings
-- Modules & Packages
-
----
-
-## Phase 3: Intermediate
-- File handling
-- Exception handling
-- OOP (Classes & Objects)
-- Virtual environments
-- pip & libraries
-
----
-
-## Phase 4: Projects
-- Calculator
-- File organizer
-- Automation scripts
-- Mini CLI tools
-
----
-
-## Notes
-This repo is my daily learning journal.
+🧭 Phase 0: Environment Setup ✅
+[x] Linux OS
+[x] Python 3.12.3
+[x] Git & GitHub
+[x] Virtual Environment (venv)
+[x] VS Code / Terminal usage
+🟢 Phase 1: Python Basics
+Python installation & setup
+Variables & Data Types
+Input / Output
+Conditions (if / else)
+Loops (for, while)
+Basic debugging
+📌 Outcome: Python syntax confidence
+🟡 Phase 2: Core Python
+Functions
+Lists, Tuples, Sets
+Dictionaries
+Strings (deep)
+Modules & Packages
+Virtual environments usage
+📌 Outcome: Structured programming skills
+🔵 Phase 3: File Handling & OS
+File read/write
+Working with directories
+OS & sys modules
+Exception handling (try/except)
+Logging basics
+📌 Outcome: Real system-level scripting
+🟣 Phase 4: Object-Oriented Programming (OOP)
+Classes & Objects
+Constructors
+Inheritance
+Polymorphism
+Encapsulation
+📌 Outcome: Clean & scalable code writing
+🟠 Phase 5: Automation & Utilities
+Automation scripts
+Rename files
+Backup scripts
+Cron jobs (Linux)
+Small productivity tools
+📌 Outcome: Python for daily life use
+🔴 Phase 6: Git & GitHub (Parallel)
+Git basics (add, commit, push)
+GitHub repositories
+README writing
+Version control habit
+Open-source basics
+📌 Outcome: Developer workflow ready
+🧪 Phase 7: Mini Projects
+Calculator (CLI)
+File Organizer
+Password strength checker
+Notes app (CLI)
+Simple automation tools
+📌 Outcome: Confidence boost 🚀
+🏁 Final Phase: Direction Decision
+Choose one:
+Backend (Flask / Django)
+Automation & Scripting
+Data Analysis
+Android / Tooling support
+📌 Outcome: Career-focused Python path
+📌 Rules I Follow
+Daily small progress
+Learn → Practice → Commit
+No copy-paste without understanding
+Focus on Linux + Terminal
