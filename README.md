@@ -4,8 +4,8 @@
 [x] Git & GitHub
 [x] Virtual Environment (venv)
 [x] VS Code / Terminal usage
-🟢 Phase 1: Python Basics
-Python installation & setup
+🟢 Phase 1: Python installation & setup
+Python Basics
 Variables & Data Types
 Input / Output
 Conditions (if / else)

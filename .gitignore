@@ -1,0 +1,10 @@
+# virtual environment
+venv/
+
+# practice files (temporary)
+hello.py
+hello1.py
+input_sum.py
+sum.py
+try.py
+print("hello world").py
